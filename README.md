@@ -44,3 +44,4 @@ $ rails server
 を参考にしてください。# sample1kaime
 # sample1kaime
 # sample1kaime
+# sample1kaime
